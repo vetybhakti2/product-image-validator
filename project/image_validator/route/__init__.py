@@ -1,0 +1,1 @@
+from project.image_validator.route import main

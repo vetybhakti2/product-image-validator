@@ -1,0 +1,1 @@
+from project.image_validator.service import image_validator_api
