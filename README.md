@@ -3,6 +3,7 @@
 This project is a FastAPI application for product image validation.
 
 ## Project Structure
+```
 project/
 ├── route/
 │ ├── init.py
@@ -14,7 +15,7 @@ project/
 ├── main.py
 ├── handler_fastapi.py
 └── pyproject.toml
-
+```
 
 ## Installation
 
