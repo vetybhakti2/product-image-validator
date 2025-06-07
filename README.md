@@ -22,11 +22,13 @@ Make sure you have [Poetry](https://python-poetry.org/) installed.
 
 ```bash
 poetry install
+```
 
 ## Running the Application
 Run the ASGI server (e.g., using uvicorn):
 ```bash
 poetry run uvicorn project.route.main:app --reload
+```
 
 ## Brief Description
 route/main.py contains the FastAPI endpoint definitions.
